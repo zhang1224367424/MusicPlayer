@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyMusicPlayer</string>
+    <string name="app_name">千千静听</string>
+    <string name="tiaozhuan">跳过</string>
 </resources>
